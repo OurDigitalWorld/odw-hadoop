@@ -1,4 +1,4 @@
 odw-hadoop
 ==========
 
-scripts that support hadoop processing
+Gathering point for ODW scripts that support hadoop processing.
